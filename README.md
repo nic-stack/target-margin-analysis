@@ -41,7 +41,7 @@ It's early 2023. Target's revenue grew 2.9% last year, but its operating income 
 - **It can't split the drop by cause,** prove that discounting caused it, or estimate savings. Public filings don't give the amounts.
 - **It isn't blind.** Markdowns and freight were known as likely causes, and some later results had been seen, before the analysis.
 - **It isn't purely a March 2023 view.** The SEC figures are, but the BLS and Census figures may include later revisions.
-- **Two peers show direction, not an industry average.** Walmart's reported −1.2 points includes one-off charges, mainly $3.3B of opioid legal charges. On Walmart's own adjusted figures it is about −0.5. Kohl's one-offs weren't fully checked.
+- **Two peers show direction, not an industry average.** Walmart's reported −1.2 points includes one-off charges, mainly $3.3B of opioid legal charges. On Walmart's own adjusted figures it is about −0.5. Kohl's reported no operating-level adjustments in either year, so its −7.3 stands as reported.
 
 Corrections made along the way are kept in the notes below.
 

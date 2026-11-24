@@ -19,7 +19,9 @@ The analysis stops at FY2022. SEC figures are as filed by the 2023-03-31 cutoff.
 | Excluding the opioid charges only | 4.5% | 3.9% | −0.6 |
 | Walmart's adjusted operating income | 4.5% ($26.05B) | 4.0% ($24.60B) | −0.5 |
 
-Both releases came out before the 2023-03-31 cutoff. Without the one-offs Walmart's drop is smaller, so the gap with Target is wider. The year-end accrual of $2.95B is lower than the charge; we haven't confirmed why. Target's 10-K shows no comparable adjustment to operating income; Kohl's one-offs weren't fully checked.
+Both releases came out before the 2023-03-31 cutoff. Without the one-offs Walmart's drop is smaller, so the gap with Target is wider. The year-end accrual of $2.95B is lower than the charge; we haven't confirmed why. Target's 10-K shows no comparable adjustment to operating income; 
+
+Kohl's −7.3 stands as reported. Its earnings releases ([FY2022](https://corporate.kohls.com/news/kohls-reports-fourth-quarter-and-full-year-fiscal-2022-financial-results), [FY2021](https://s204.q4cdn.com/271435555/files/doc_financials/2021/q4/Press-Release-Q4-2021-FINAL-1.pdf)) show no operating-level adjustments in either year; the only one, a $201M debt extinguishment loss in FY2021, falls below operating income. Its filings tag a $22M asset impairment in FY2022 that Kohl's didn't adjust for, about 0.1 points. Its Q4 FY2022 release also cites "proactive measures" for 2023, not sized as a one-off.
 
 **5. Normal or broken?** By margin: $2.70B of the drop is the return to FY2019's margin and $2.66B is below it (+$0.26B from sales). **But the cost-of-goods rate did not return to normal:** 70.2% (FY2019), 70.7% (FY2021), 75.4% (FY2022). The FY2021 gain was in SG&A (20.8% → 18.6%) and depreciation (3.0% → 2.2%), and it largely held in FY2022. So "pandemic boost wearing off" is an arithmetic comparison, not the mechanism.
 
