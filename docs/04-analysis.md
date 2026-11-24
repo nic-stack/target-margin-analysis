@@ -11,7 +11,15 @@ The analysis stops at FY2022. SEC figures are as filed by the 2023-03-31 cutoff.
 
 **3. Why?** See hypotheses.
 
-**4. Just Target?** Change in full-year operating margin: Target −4.9 points, Kohl's about −7.3, Walmart about −1.2. Cost-of-goods rate: Target +4.6, Kohl's +4.4 (mostly Q4: +9.9), Walmart +1.0. Walmart's SG&A jumped in Q3 (−$2.2B effect). Its FY2022 10-K tags a $2.95B loss-contingency accrual at 2023-01-31, which is consistent with a large legal charge, but the tag gives neither the charge nor its quarter. Until that is checked in the filing, Walmart's −1.2 points may include a one-off.
+**4. Just Target?** Change in full-year operating margin: Target −4.9 points, Kohl's about −7.3, Walmart about −1.2. Cost-of-goods rate: Target +4.6, Kohl's +4.4 (mostly Q4: +9.9), Walmart +1.0. Walmart's SG&A jumped in Q3 (−$2.2B effect). Walmart's earnings releases explain it: $3.325B of opioid legal charges, recorded in Q3 ([Q3 release](https://corporate.walmart.com/content/dam/corporate/documents/press-center/walmart-releases-q3-fy23-earnings/q3-fy23-earnings-release.pdf)). [Its Q4 release](https://corporate.walmart.com/content/dam/corporate/documents/press-center/walmart-releases-q4-and-fy23-earnings/earnings-release-fy23-q4.pdf) also excludes $849M of reorganization and restructuring charges in Q4 FY2022 and $108M of restructuring charges in FY2021. Walmart's margin change is:
+
+| | FY2021 | FY2022 | Change (points) |
+|---|---|---|---|
+| As reported | 4.5% ($25.94B) | 3.3% ($20.43B) | −1.2 |
+| Excluding the opioid charges only | 4.5% | 3.9% | −0.6 |
+| Walmart's adjusted operating income | 4.5% ($26.05B) | 4.0% ($24.60B) | −0.5 |
+
+Both releases came out before the 2023-03-31 cutoff. Without the one-offs Walmart's drop is smaller, so the gap with Target is wider. The year-end accrual of $2.95B is lower than the charge; we haven't confirmed why. Target's 10-K shows no comparable adjustment to operating income; Kohl's one-offs weren't fully checked.
 
 **5. Normal or broken?** By margin: $2.70B of the drop is the return to FY2019's margin and $2.66B is below it (+$0.26B from sales). **But the cost-of-goods rate did not return to normal:** 70.2% (FY2019), 70.7% (FY2021), 75.4% (FY2022). The FY2021 gain was in SG&A (20.8% → 18.6%) and depreciation (3.0% → 2.2%), and it largely held in FY2022. So "pandemic boost wearing off" is an arithmetic comparison, not the mechanism.
 
@@ -30,7 +38,7 @@ The analysis stops at FY2022. SEC figures are as filed by the 2023-03-31 cutoff.
 
 - **Not proof of cause.** There is no markdown data, so the evidence can't show that discounting excess inventory caused the drop. H1 fits the Q2 spike best; it doesn't account for the rest.
 - **Not fully blind or purely March 2023.** See the question and data-profile notes, and the data notes below.
-- **Two peers, not an industry.** Two peers were chosen on purpose: one grocery-heavy (Walmart), one discretionary-heavy (Kohl's). They show direction, not an industry average. Product mix is only one difference between them: Kohl's sales also fell, and Walmart's result may include a one-off charge.
+- **Two peers, not an industry.** Two peers were chosen on purpose: one grocery-heavy (Walmart), one discretionary-heavy (Kohl's). They show direction, not an industry average. Product mix is only one difference between them: Kohl's sales also fell, and Walmart's reported result includes one-off charges (see question 4).
 
 ## Corrections to earlier notes
 

@@ -20,7 +20,7 @@ In fiscal 2022 revenue rose 2.9% to $109.1B, but operating income fell 57%, from
 
 ## Just Target?
 
-No. Operating margin fell at all three companies: Kohl's −7.3 points, **Target −4.9**, Walmart −1.2 (which may include a one-off charge). Two peers show direction, not an industry average.
+No. Operating margin fell at all three companies: Kohl's −7.3 points, **Target −4.9**, Walmart −1.2 (about −0.5 on Walmart's own adjusted figures, which leave out a $3.3B opioid legal charge and other one-offs). Two peers show direction, not an industry average.
 
 ## What to do
 

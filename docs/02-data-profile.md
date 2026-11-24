@@ -50,7 +50,7 @@ Chosen to pursue (all aimed at guiding question 3, "what pushed the cost-of-good
 
 Not pursued as hypotheses:
 - **Running costs (SG&A) and the pandemic boost wearing off** are still measured, because guiding questions 1 and 5 already cover them.
-- **Shrink (theft/loss) and one-off charges** go in the limitations section. Public data can't test shrink, and the only one-off found so far is a $77M restatement.
+- **Shrink (theft/loss) and one-off charges** go in the limitations section. Public data can't test shrink, and the only one-off found at this stage was a $77M restatement (Walmart's one-offs were found later; see `04-analysis.md`, question 4).
 
 The four hypotheses can all be true at once. The aim is to size how much each one contributed, not to pick a single winner.
 

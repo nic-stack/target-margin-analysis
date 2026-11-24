@@ -41,7 +41,7 @@ It's early 2023. Target's revenue grew 2.9% last year, but its operating income 
 - **It can't split the drop by cause,** prove that discounting caused it, or estimate savings. Public filings don't give the amounts.
 - **It isn't blind.** Markdowns and freight were known as likely causes, and some later results had been seen, before the analysis.
 - **It isn't purely a March 2023 view.** The SEC figures are, but the BLS and Census figures may include later revisions.
-- **Two peers show direction, not an industry average.** Walmart's result may include a one-off charge.
+- **Two peers show direction, not an industry average.** Walmart's reported −1.2 points includes one-off charges, mainly $3.3B of opioid legal charges. On Walmart's own adjusted figures it is about −0.5. Kohl's one-offs weren't fully checked.
 
 Corrections made along the way are kept in the notes below.
 
@@ -72,6 +72,6 @@ Corrections made along the way are kept in the notes below.
 
 **Tools:** Python (pandas, matplotlib).
 
-**Sources:** [SEC company facts](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) · [Target filings](https://www.sec.gov/edgar/browse/?CIK=27419) · [BLS](https://www.bls.gov/data/) · [Census monthly retail trade](https://www.census.gov/retail/). The CEO-brief format was inspired by a LinkedIn Learning course.
+**Sources:** [SEC company facts](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) · [Target filings](https://www.sec.gov/edgar/browse/?CIK=27419) · [BLS](https://www.bls.gov/data/) · [Census monthly retail trade](https://www.census.gov/retail/) · Walmart earnings releases ([Q3](https://corporate.walmart.com/content/dam/corporate/documents/press-center/walmart-releases-q3-fy23-earnings/q3-fy23-earnings-release.pdf), [Q4](https://corporate.walmart.com/content/dam/corporate/documents/press-center/walmart-releases-q4-and-fy23-earnings/earnings-release-fy23-q4.pdf)). The CEO-brief format was inspired by a LinkedIn Learning course.
 
 **Author:** Nicolette Mtisi. Not affiliated with Target, Walmart or Kohl's.
